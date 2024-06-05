@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Teachable_Machine_1_Image_Classification_notwithvideos",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5503
+	}
+}
